@@ -1,0 +1,8 @@
+[
+	{
+		"repository": "CyanogenMod/android_hardware_broadcom_wlan"
+	},
+        {
+               	"repository": "CyanogenMod/android_frameworks_opt_telephony"
+        }
+]

@@ -1,0 +1,42 @@
+[
+	{
+		"repository": "walter79/android_kernel_htc_leo_2.6.35",
+		"target_path": "kernel/htc/leo",
+		"branch": "cm-10.2"
+	},
+	{
+		"repository": "walter79/android_hardware_qcom_display-legacy",
+		"target_path": "hardware/qcom/display-legacy",
+		"branch": "kitkat"
+	},
+	{
+		"repository": "Evervolv/android_hardware_qcom_audio-legacy",
+		"target_path": "hardware/qcom/audio-legacy",
+		"branch": "kitkat"
+	},
+	{
+		"repository": "Evervolv/android_hardware_qcom_gps-legacy",
+		"target_path": "hardware/qcom/gps-legacy",
+		"branch": "kitkat"
+	},
+	{
+		"repository": "Evervolv/android_hardware_qcom_media-legacy",
+		"target_path": "hardware/qcom/media-legacy",
+		"branch": "kitkat"
+	},
+	{
+		"repository": "walter79/cm_android_frameworks_opt_telephony",
+		"target_path": "frameworks/opt/telephony",
+		"branch": "cm-11.0"
+	},	
+	{
+		"repository": ""walter79/android_hardware_broadcom_wlan",
+		"target_path": "hardware/broadcom/wlan",
+		"branch": "cm-10.2-bcm4329"
+	},
+	{
+		"repository": "walter79/arm-eabi-4.4.3",
+		"target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi-4.4.3",
+		"branch": "master"
+	}
+]
