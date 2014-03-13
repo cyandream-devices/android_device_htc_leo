@@ -238,7 +238,7 @@ PRODUCT_COPY_FILES += \
 
 
 # Proprietary
-$(call inherit-product, device/htc/leo/proprietary.mk)
+$(call inherit-product, vendor/htc/leo/vendor-leo.mk)
 
 # Discard inherited values and use our own instead.
 PRODUCT_NAME := full_leo

@@ -39,4 +39,9 @@
 		"target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi-4.4.3",
 		"branch": "master"
 	}
+        {
+                "repository": "cyandream-devices/proprietary_vendor_htc",
+                "target_path": "vendor/htc",
+                "branch": "cd-4.4"
+        }
 ]
